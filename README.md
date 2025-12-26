@@ -58,7 +58,9 @@ Once installed, the mod loads automatically through BepInEx when the game starts
 
 ## Authors
 
-* Sparroh
+- Sparroh
+- funlennysub (BepInEx template)
+- [@DomPizzie](https://twitter.com/dompizzie) (README template)
 
 ## License
 
