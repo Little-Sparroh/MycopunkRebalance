@@ -4,7 +4,7 @@ schemaVersion = "0.0.1"
 [package]
 namespace = "Sparroh"
 name = "MycopunkRebalance"
-description = "*WARNING* (This is a cheat mod) Enables ability to Fire and Aim while Sprinting and Sliding for fluid gameplay. Also enables Aim while Reloading and Wallrunning."
+description = "*WARNING* (This is a cheat mod) This mod modifies multiple aspects of Mycopunk gameplay to adjust balance, including movement abilities, weapon effectiveness, and equipment behavior."
 websiteUrl = "https://github.com/Little-Sparroh/MycopunkRebalance"
 containsNsfwContent = false
 
